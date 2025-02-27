@@ -11,9 +11,9 @@ As I seek to transition into a formal role, I am eager to collaborate with a dyn
 ---
 
 ## 🔧 Technologies & Skills:
-- 💻 **Frontend:** React.js, HTML, CSS, JavaScript, Bootstrap
+- 💻 **Frontend:** ReactJS, HTML, CSS, JavaScript, Bootstrap
   
-- ⚙️ **Backend:** Node.js, Express.js, Django, REST APIs
+- ⚙️ **Backend:** NodeJS, ExpressJS, Django, REST APIs
   
 - 🛠 **Tools & Platforms:** GitHub, Render, MongoDB, MySQL
 
