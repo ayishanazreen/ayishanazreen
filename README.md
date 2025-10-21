@@ -11,6 +11,9 @@ As I seek to transition into a formal role, I am eager to collaborate with a dyn
 ---
 
 ## 🔧 Technologies & Skills:
+
+- 📈 **Digital Marketing & SEO:** On-page/Off-page SEO, Keyword Research, Product Page Optimization, Meta Tags, Schema, Google Ads, Meta Ads
+  
 - 💻 **Frontend:** ReactJS, HTML, CSS, JavaScript, Bootstrap
   
 - ⚙️ **Backend:** NodeJS, ExpressJS, Django, REST APIs
