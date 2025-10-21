@@ -1,5 +1,5 @@
 # 👋 Hi, I'm Ayisha Nazreen!
-### 👩‍💻 Digital Marketing Specialis | SEO Analyst | Web Developer
+### 👩‍💻 Digital Marketing Specialist | SEO Analyst | Web Developer
 
 
 I specialize in **digital marketing** and **SEO**, helping businesses grow their online presence through data-driven strategies. Alongside, I develop dynamic web applications using MERN stack and WordPress, with hands-on experience in RESTful APIs, full-stack development, and website optimization. Passionate about learning, experimenting, and delivering impactful solutions.
