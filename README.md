@@ -1,12 +1,12 @@
 # 👋 Hi, I'm Ayisha Nazreen!
-### 👩‍💻 Web Developer | MERN Stack | Django | WordPress 
+### 👩‍💻 Digital Marketing Specialis | SEO Analyst | Web Developer
 
 
-I am an aspiring **Web Developer** with a strong passion for creating dynamic web applications using the **MERN stack and Django**. Over the past 3 years, I have independently built **10+** projects, demonstrating my ability to develop robust solutions and continuously enhance my coding skills.
+I specialize in **digital marketing** and **SEO**, helping businesses grow their online presence through data-driven strategies. Alongside, I develop dynamic web applications using MERN stack and WordPress, with hands-on experience in RESTful APIs, full-stack development, and website optimization. Passionate about learning, experimenting, and delivering impactful solutions.
 
-Through my self-directed learning, I have gained hands-on experience in developing **RESTful APIs**, implementing efficient coding practices, and optimizing application performance. My personal projects have allowed me to experiment with various technologies, leading to improved functionality and user experience.
+Through self-directed learning, I have gained hands-on experience in  **SEO strategy, keyword research, and website optimization**, alongside developing RESTful APIs and implementing efficient coding practices. My personal projects have allowed me to experiment with various technologies and SEO techniques, improving both functionality and search visibility for better user experience.
 
-As I seek to transition into a formal role, I am eager to collaborate with a dynamic team and contribute to innovative web solutions. If you're looking for a passionate web developer ready to learn and grow, let's connect!
+As I seek to transition into a formal role, I am eager to collaborate with a dynamic team and contribute to innovative web solutions. Combining SEO expertise and web development skills to make an impact— let’s collaborate!
 
 ---
 
